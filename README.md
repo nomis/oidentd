@@ -4,10 +4,10 @@ description: Configurable ident daemon
 permalink: /
 ---
 
-oidentd is an RFC 1413 compliant ident daemon that runs on Linux, Darwin,
-FreeBSD, OpenBSD, and DragonFly BSD.
+oidentd is an RFC 1413 compliant ident daemon that runs on Linux, FreeBSD,
+OpenBSD, NetBSD, DragonFly BSD, and some versions of Darwin and Solaris.
 
-oidentd is used primarily by universities, providers of shell accounts, and
+oidentd is used primarily by universities and providers of shell accounts and
 public IRC bouncers to fight abuse by allowing servers to identify the owners
 of incoming connections.
 
@@ -36,7 +36,7 @@ pull request on [GitHub](https://github.com/janikrabe/oidentd). You can also
 email patches, suggestions, questions, comments, bug reports, et cetera to
 [Janik Rabe](https://janikrabe.com) (<info@janikrabe.com>).
 
-## IRC
+## IRC Channel
 
 You can find us on IRC at
 irc://chat.freenode.net/[#oidentd](irc://chat.freenode.net/#oidentd).
