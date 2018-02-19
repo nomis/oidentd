@@ -27,7 +27,11 @@ or run `oidentd --help`.
 ## Download
 
 The most recent version of oidentd will always be available at
-ftp://ftp.janikrabe.com/pub/oidentd/releases/latest.
+[ftp.janikrabe.com](http://ftp.janikrabe.com/pub/oidentd/releases/latest).
+
+All releases are signed with PGP key [0xE3E8FA19DC9A1AA9](key.asc).
+It is highly recommended that you verify the signatures of releases
+before installing them.
 
 ## Contributing
 
